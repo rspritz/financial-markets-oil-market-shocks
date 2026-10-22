@@ -1,7 +1,7 @@
 clear all 
 set more off 
 
-cd "/Users/rebeccaspritzer/Desktop/Ireland/Trinity/Econometrics II/Project/Econometrics II Project Submission"
+cd "/Users/rebeccaspritzer/Desktop/Files"
 
 use Projectv3.dta
 br
